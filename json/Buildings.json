@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Tu Edificio Único",
+    "replaces": "Monument",
+    "requiredTech": "Writing",
+    "cost": 40,
+    "maintenance": 1,
+    "hurryCostModifier": 25,
+    "uniques": [
+      "[+2] Culture",
+      "[+1] Happiness",
+      "Provides [2] [Gold]"
+    ]
+  }
+]
