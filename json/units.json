@@ -1,1 +1,16 @@
-.
+[
+  {
+    "name": "NaNa",
+    "unitType": "mele",
+    "movement": 2,
+    "strength": 15,
+    "rangedStrength": 20,
+    "cost": 90,
+    "hurryCostModifier": 25,
+    "requiredTech": "Archery",
+    "replacesUnit": "Archer",
+    "unique": "[+15]% combat strength",
+    "uniques": ["[+15]% combat strength"],
+    "promotions": ["Accuracy I"]
+  }
+]
